@@ -120,11 +120,6 @@ nav{
     margin-right: 2rem;
   }
 }
-
-
-
-
-
 .card-section{
   display: flex;
   flex-direction: column;
@@ -472,7 +467,6 @@ footer{
       gap: 2rem;
   }
 }
-
 @media(width > 2000px){
   .banner{
     height: 50vh;

@@ -472,3 +472,11 @@ footer{
       gap: 2rem;
   }
 }
+@media screen and (min-width: 2400px){
+  footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}
